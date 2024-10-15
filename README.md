@@ -41,7 +41,7 @@ TO BE TESTED:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnan-kutay-yuksel&show_icons=true&theme=merko)
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1348691" style='border:none;'></iframe>
+<!--  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1348691" style='border:none;'></iframe> -->
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/akyuksel.png" alt="Your Image Badge" />
 
