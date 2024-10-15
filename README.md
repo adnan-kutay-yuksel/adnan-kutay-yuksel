@@ -31,7 +31,7 @@ Feel free to reach out! I'm always open to collaboration and networking.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-kutay-yuksel&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
----
+--- 
 
 ## 🥇 TryHackMe Badge
 <img src="https://tryhackme-badges.s3.amazonaws.com/akyuksel.png" alt="TryHackMe Badge" />
