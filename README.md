@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm **Adnan Kutay Yuksel**, a content creator and cybersecurity enthusiast working on exciting challenges on TryHackMe. I enjoy learning and sharing my knowledge in cybersecurity, Python, and AI.
+I'm **Adnan Kutay Yuksel**, a cybersecurity enthusiastic specialist working on exciting challenges and content creating on TryHackMe. I enjoy learning and sharing my knowledge in cybersecurity, Python, and AI.
 
 ---
 
