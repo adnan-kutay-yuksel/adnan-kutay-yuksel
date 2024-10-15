@@ -47,7 +47,7 @@ TO BE TESTED:
 
 LATEST PROJECTS:
 
-[![TryHackMe All Rooms Database](https://github-readme-stats.vercel.app/api/pin/?username=adnan-kutay-yuksel&repo=tryhackme-all-rooms-database
+[![TryHackMe All Rooms Database](https://github-readme-stats.vercel.app/api/pin/?username=adnan-kutay-yuksel&repo=tryhackme-all-rooms-database&theme=dark
 )](https://github.com/adnan-kutay-yuksel/tryhackme-all-rooms-database/blob/0V0.0branch/README.md)
 
 
