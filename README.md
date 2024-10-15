@@ -35,11 +35,21 @@ Here are some ideas to get you started:
 -->
 
 TO BE TESTED:
-
+-----------------------------------------------------------------------------------------------------------
 
 <!-- [![Kutay's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnan-kutay-yuksel)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnan-kutay-yuksel&show_icons=true&theme=merko)
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1348691" style='border:none;'></iframe>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/akyuksel.png" alt="Your Image Badge" />
+
+LATEST PROJECTS:
+
+[![TryHackMe All Rooms Database](https://github-readme-stats.vercel.app/api/pin/?username=adnan-kutay-yuksel&repo=tryhackme-all-rooms-database
+)](https://github.com/adnan-kutay-yuksel/tryhackme-all-rooms-database/blob/0V0.0branch/README.md)
+
 
 
 
