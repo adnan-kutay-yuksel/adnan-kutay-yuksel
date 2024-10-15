@@ -14,7 +14,7 @@ I'm Adnan Kutay Yuksel. I create content in the field of cybersecurity and work 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnan-kutay-yuksel&show_icons=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=adnan-kutay-yuksel)](https://github.com/ryo-ma/github-profile-trophy)
+#[![trophy](https://github-profile-trophy.vercel.app/?username=adnan-kutay-yuksel)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=adnan-kutay-yuksel&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
