@@ -22,7 +22,7 @@ Feel free to reach out! I'm always open to collaboration and networking.
 ---
 
 ## 🏆 Trophies & Achievements
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=adnan-kutay-yuksel&theme=merko&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=adnan-kutay-yuksel&theme=matrix&row=3&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
