@@ -13,7 +13,7 @@ I'm Adnan Kutay Yuksel. I create content in the field of cybersecurity and work 
 - AI and Machine Learning
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnan-kutay-yuksel&show_icons=true&theme=matrix)
+
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=adnan-kutay-yuksel&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy) -->
 
@@ -33,3 +33,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+TO BE TESTED:
+[![Kutay's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnan-kutay-yuksel)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnan-kutay-yuksel&show_icons=true&theme=merko)
+
+
+
+
+
