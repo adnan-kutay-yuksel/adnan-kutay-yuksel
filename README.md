@@ -48,8 +48,6 @@ TO BE TESTED:
 
 LATEST PROJECTS:
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1348691" style='border:none;'></iframe>
-
 
 [![TryHackMe All Rooms Database](https://github-readme-stats.vercel.app/api/pin/?username=adnan-kutay-yuksel&repo=tryhackme-all-rooms-database&theme=dark
 )](https://github.com/adnan-kutay-yuksel/tryhackme-all-rooms-database/blob/0V0.0branch/README.md)
