@@ -3,8 +3,8 @@
 I'm Adnan Kutay Yuksel. I create content in the field of cybersecurity and work on TryHackMe challenges.
 
 ## Connect with Me
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [TryHackMe](https://tryhackme.com/p/yourusername)
+- [LinkedIn](https://linkedin.com/in/adnan-kutay-yuksel)
+- [TryHackMe](https://tryhackme.com/r/p/akyuksel)
 - [GitHub Projects](https://github.com/adnan-kutay-yuksel)
 
 ## Skills
@@ -35,7 +35,10 @@ Here are some ideas to get you started:
 -->
 
 TO BE TESTED:
-[![Kutay's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnan-kutay-yuksel)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- [![Kutay's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnan-kutay-yuksel)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnan-kutay-yuksel&show_icons=true&theme=merko)
 
 
