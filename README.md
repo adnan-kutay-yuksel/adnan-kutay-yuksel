@@ -39,9 +39,9 @@ TO BE TESTED:
 
 <!-- [![Kutay's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnan-kutay-yuksel)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnan-kutay-yuksel&show_icons=true&theme=merko)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnan-kutay-yuksel&show_icons=true&theme=matrix)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-kutay-yuksel&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-kutay-yuksel&theme=matrix)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1348691" style='border:none;'></iframe> -->
 
