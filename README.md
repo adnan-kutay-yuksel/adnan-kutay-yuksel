@@ -13,11 +13,11 @@ I'm Adnan Kutay Yuksel. I create content in the field of cybersecurity and work 
 - AI and Machine Learning
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnan-kutay-yuksel&show_icons=true&theme=matrix)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnan-kutay-yuksel&theme=matrix)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=adnan-kutay-yuksel&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=adnan-kutay-yuksel&theme=matrix&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=adnan-kutay-yuksel&theme=matrix&row=3&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **adnan-kutay-yuksel/adnan-kutay-yuksel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
