@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm **Adnan Kutay Yuksel**, a cybersecurity enthusiastic specialist working on exciting challenges and content creating on TryHackMe. I enjoy learning and sharing my knowledge in cybersecurity, Python, and AI.
+I'm **Adnan Kutay Yuksel**, a cybersecurity enthusiastic specialist working on exciting challenges and content creation on TryHackMe. I enjoy learning and sharing my knowledge in cybersecurity, Python, and AI.
 
 ---
 
@@ -11,6 +11,9 @@ Feel free to reach out! I'm always open to collaboration and networking.
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/akyuksel)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/adnan-kutay-yuksel)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adnan.kutay.yuksel@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-lightgrey?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=your_google_scholar_id)
+[![X](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/your_x_username)
+[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/your_orcid_id)
 
 ---
 
@@ -48,7 +51,7 @@ Feel free to reach out! I'm always open to collaboration and networking.
 - 🌱 **Currently Learning**: Advanced penetration testing techniques.
 - 👯 **Looking to Collaborate On**: Open-source cybersecurity projects.
 - 💬 **Ask Me About**: Cybersecurity, Python, or TryHackMe.
-- 📫 **How to Reach Me**: https://github.com/adnan-kutay-yuksel/adnan-kutay-yuksel/blob/master/README.md#-skills--interests
+- 📫 **How to Reach Me**: [Email](mailto:adnan.kutay.yuksel@gmail.com) or any of the platforms listed above.
 - ⚡ **Fun Fact**: I love solving puzzles, both on and off the computer!
 
 ---
