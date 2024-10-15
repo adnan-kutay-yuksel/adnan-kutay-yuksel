@@ -22,14 +22,14 @@ Feel free to reach out! I'm always open to collaboration and networking.
 ---
 
 ## 🏆 Trophies & Achievements
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=adnan-kutay-yuksel&theme=matrix&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=adnan-kutay-yuksel&theme=merko&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnan-kutay-yuksel&show_icons=true&theme=matrix)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnan-kutay-yuksel&show_icons=true&theme=merko)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-kutay-yuksel&layout=compact&theme=matrix)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-kutay-yuksel&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -39,20 +39,16 @@ Feel free to reach out! I'm always open to collaboration and networking.
 ---
 
 ## 🚀 Latest Projects
-[![TryHackMe All Rooms Database](https://github-readme-stats.vercel.app/api/pin/?username=adnan-kutay-yuksel&repo=tryhackme-all-rooms-database&theme=matrix)](https://github.com/adnan-kutay-yuksel/tryhackme-all-rooms-database/blob/0V0.0branch/README.md)
+[![TryHackMe All Rooms Database](https://github-readme-stats.vercel.app/api/pin/?username=adnan-kutay-yuksel&repo=tryhackme-all-rooms-database&theme=merko)](https://github.com/adnan-kutay-yuksel/tryhackme-all-rooms-database/blob/0V0.0branch/README.md)
 
 ---
 
-## 📬 Let's Connect!
+## 📬 Summary
 - 🔭 **Currently Working On**: Expanding my knowledge in AI for cybersecurity.
 - 🌱 **Currently Learning**: Advanced penetration testing techniques.
 - 👯 **Looking to Collaborate On**: Open-source cybersecurity projects.
-- 🤔 **Looking for Help With**: Machine learning projects related to threat detection.
 - 💬 **Ask Me About**: Cybersecurity, Python, or TryHackMe.
-- 📫 **How to Reach Me**: 
-  - **LinkedIn**: [adnan-kutay-yuksel](https://linkedin.com/in/adnan-kutay-yuksel)
-  - **Email**: [adnan.kutay.yuksel@gmail.com](mailto:adnan.kutay.yuksel@gmail.com)
-  - **TryHackMe**: [akyuksel](https://tryhackme.com/r/p/akyuksel)
+- 📫 **How to Reach Me**: https://github.com/adnan-kutay-yuksel/adnan-kutay-yuksel/blob/master/README.md#-skills--interests
 - ⚡ **Fun Fact**: I love solving puzzles, both on and off the computer!
 
 ---
