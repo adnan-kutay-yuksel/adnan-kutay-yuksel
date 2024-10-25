@@ -39,6 +39,8 @@ Feel free to reach out! I'm always open to collaboration and networking.
 ## 🥇 TryHackMe Badge
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/akyuksel.png)
 
+[View my TryHackMe Badge](https://tryhackme.com/p/akyuksel)
+
 ---
 
 ## 🚀 Latest Projects
