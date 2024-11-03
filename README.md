@@ -49,7 +49,7 @@ Feel free to reach out! I'm always open to collaboration and networking.
 ---
 
 ## 📬 Summary
-- 🔭 **Currently Working On**: Expanding my knowledge in AI for cybersecurity.
+- 🔭 **Currently Working On**: Expanding my knowledge in AI for Cybersecurity and Cybersecurity for AI!
 - 🌱 **Currently Learning**: Advanced penetration testing techniques.
 - 👯 **Looking to Collaborate On**: Open-source cybersecurity projects.
 - 💬 **Ask Me About**: Cybersecurity, Python, or TryHackMe.
