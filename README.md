@@ -46,6 +46,13 @@ Feel free to reach out! I'm always open to collaboration and networking.
 ## 🚀 Latest Projects
 [![TryHackMe All Rooms Database](https://github-readme-stats.vercel.app/api/pin/?username=adnan-kutay-yuksel&repo=tryhackme-all-rooms-database&theme=merko)](https://github.com/adnan-kutay-yuksel/tryhackme-all-rooms-database/blob/0V0.0branch/README.md)
 
+[![GenAI/LLM Security CTFs](https://github-readme-stats.vercel.app/api/pin/?username=adnan-kutay-yuksel&repo=GenAI-LLM-Security-CTFs&theme=merko)]([https://github.com/adnan-kutay-yuksel/tryhackme-all-rooms-database/blob/0V0.0branch/README.md](https://github.com/adnan-kutay-yuksel/GenAI-LLM-Security-CTFs))
+
+
+
+
+
+
 ---
 
 ## 📬 Summary
