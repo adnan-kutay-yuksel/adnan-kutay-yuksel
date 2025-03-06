@@ -12,8 +12,7 @@ Feel free to reach out! I'm always open to collaboration and networking.
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/adnan-kutay-yuksel)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:a.k.yuksel@hotmail.com)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-lightgrey?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=9nvHrlsAAAAJ&hl=en)
-[![X](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/) <!-- TO BE EDITED -->
-[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4057-3957) <!-- TO BE EDITED -->
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](https://www.kaggle.com/adnankutayyksel)
 
 ---
 
